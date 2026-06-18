@@ -28,4 +28,5 @@ make re        # recompile tout depuis zéro
 
 
  Partie obligatoire
+ 
  Norme 42 respectée
