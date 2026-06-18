@@ -23,10 +23,3 @@ make re        # recompile tout depuis zéro
 🧩 Conversions gérées
 
 %c, %s, %p, %d, %i, %u, %x, %X, %%
-
-✅ Status
-
-
- Partie obligatoire
- 
- Norme 42 respectée
